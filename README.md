@@ -11,11 +11,11 @@ Digital logbook: [log61.com](https://log61.com)
 
 | Standard Theme | Night Theme | Daylight Theme |
 |:-:|:-:|:-:|
-| ![Main Menu](screenshots/main%20menu%20default%20theme.png) | ![Night Theme](screenshots/night%20theme%20main%20menu.png) | ![Daylight Theme](screenshots/daylight%20theme%20main%20menu.png) |
+| ![Main Menu](screenshots/main-menu-default-theme.png) | ![Night Theme](screenshots/night-theme-main-menu.png) | ![Daylight Theme](screenshots/daylight-theme-main-menu.png) |
 
 | Wind Correction | Weight & Balance | Conversions |
 |:-:|:-:|:-:|
-| ![Wind Correction](screenshots/wind%20correction.png) | ![Weight & Balance](screenshots/weight%20and%20balence.png) | ![Conversions](screenshots/conversions.png) |
+| ![Wind Correction](screenshots/wind-correction.png) | ![Weight & Balance](screenshots/weight-and-balence.png) | ![Conversions](screenshots/conversions.png) |
 
 ---
 
