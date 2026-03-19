@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# CE Toolchain build artifacts
+obj/
+
+# Raw binary and map (not needed by users)
+bin/*.bin
+bin/*.map
