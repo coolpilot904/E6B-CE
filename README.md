@@ -35,7 +35,7 @@ If you have not set up CalcPlex yet, follow this tutorial first:
    - `E6B.8xp` - launcher program
    - `E6B.8xp.0.8xv` - program data part 1
    - `E6B.8xp.1.8xv` - program data part 2
-3. Transfer all three files to your TI-84 Plus CE using [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) or [TiLP](http://tilp.info/).
+3. Transfer all three files to your TI-84 Plus CE using [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw).
 4. On the calculator, press `APPS`, select **CalcPlex**, then select **E6B**.
 
 > All three files must be present on the calculator. The `.8xv` files are AppVars that store the program body (the app exceeds the 64 KB single-program limit).
