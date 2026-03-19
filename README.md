@@ -11,11 +11,11 @@ Digital logbook: [log61.com](https://log61.com)
 
 | Standard Theme | Night Theme | Daylight Theme |
 |:-:|:-:|:-:|
-| ![Main Menu](main%20menu%20default%20theme.png) | ![Night Theme](night%20theme%20main%20menu.png) | ![Daylight Theme](daylight%20theme%20main%20menu.png) |
+| ![Main Menu](screenshots/main%20menu%20default%20theme.png) | ![Night Theme](screenshots/night%20theme%20main%20menu.png) | ![Daylight Theme](screenshots/daylight%20theme%20main%20menu.png) |
 
 | Wind Correction | Weight & Balance | Conversions |
 |:-:|:-:|:-:|
-| ![Wind Correction](wind%20correction.png) | ![Weight & Balance](weight%20and%20balence.png) | ![Conversions](conversions.png) |
+| ![Wind Correction](screenshots/wind%20correction.png) | ![Weight & Balance](screenshots/weight%20and%20balence.png) | ![Conversions](screenshots/conversions.png) |
 
 ---
 
@@ -31,7 +31,7 @@ If you have not set up CalcPlex yet, follow this tutorial first:
 ## Installation
 
 1. Set up CalcPlex on your calculator using the tutorial above.
-2. Download the files from the [Releases](../../releases) page:
+2. Download the files from the [Releases](https://github.com/coolpilot904/E6B-CE/releases) page:
    - `E6B.8xp` - launcher program
    - `E6B.8xp.0.8xv` - program data part 1
    - `E6B.8xp.1.8xv` - program data part 2
